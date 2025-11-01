@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
-<h3 align="center">🍎 Apple MaBook Landing Page</h3>
+<h3 align="center">🍎 Apple MacBook Landing Page</h3>
 
 ---
 
@@ -92,4 +92,4 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser to prev
 <p align="center">
   Built with ❤️ using React, GSAP, Three.js, and Tailwind CSS.
 </p>
-```
+

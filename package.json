@@ -3,12 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Vishuddhijain.github.io/gsap_macbook_landing",
+  "homepage": "https://Vishuddhijain.github.io/gsap_macbook_landing-main",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",

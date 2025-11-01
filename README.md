@@ -1,10 +1,4 @@
-Perfect 👌 — here’s your **final, clean, and fully formatted `README.md`** with the missing “📦 Install Dependencies” and “🚀 Run the Development Server” sections included (and properly rendered for GitHub).
 
-Just copy this entire block into your `README.md` file ⬇️
-
----
-
-````markdown
 <div align="center">
   <img src="https://img.shields.io/badge/-React-58C4DC?style=for-the-badge&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />

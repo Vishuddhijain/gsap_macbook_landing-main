@@ -9,7 +9,6 @@
 <h1 align="center">🍎 Apple-Inspired MacBook 3D Landing Page</h1>
 
 <p align="center">
-  <a href="https://gsap-macbook-landing-main-five.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="public/macbook-landing.png" alt="MacBook Landing screenshot" width="900" />
   </a>
 </p>
@@ -28,7 +27,6 @@
 - [⚙️ Tech Stack](#-tech-stack)  
 - [🔋 Features](#-features)  
 - [🤸 Quick Start](#-quick-start)  
-- [🖼 Screenshots](#-screenshots)  
 - [🤝 Contributing](#-contributing)  
 - [📄 License](#-license)  
 - [✉️ Contact](#-contact)
@@ -105,13 +103,6 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser to prev
 
 ---
 
-## ✅ Production / Deployment
-
-Deployed on Vercel:
-**Live demo:** [https://gsap-macbook-landing-main-five.vercel.app/](https://gsap-macbook-landing-main-five.vercel.app/)
-
----
-
 ## 🤝 Contributing
 
 Contributions & feedback welcome!
@@ -141,4 +132,5 @@ Live demo: [https://gsap-macbook-landing-main-five.vercel.app/](https://gsap-mac
 ---
 
 <p align="center">Built with ❤️ using React, GSAP, Three.js, and Tailwind CSS.</p>
-```
+
+---

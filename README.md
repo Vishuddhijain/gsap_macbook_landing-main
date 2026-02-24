@@ -6,16 +6,32 @@
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
-<h3 align="center">🍎 Apple MacBook Landing Page</h3>
+<h1 align="center">🍎 Apple-Inspired MacBook 3D Landing Page</h1>
+
+<p align="center">
+  <a href="https://gsap-macbook-landing-main-five.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="public/macbook-landing.png" alt="MacBook Landing screenshot" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gsap-macbook-landing-main-five.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <strong>Live demo → https://gsap-macbook-landing-main-five.vercel.app/</strong>
+  </a>
+</p>
 
 ---
 
 ## 📋 Table of Contents
 
-1. ✨ [Introduction](#-introduction)
-2. ⚙️ [Tech Stack](#-tech-stack)
-3. 🔋 [Features](#-features)
-4. 🤸 [Quick Start](#-quick-start)
+- [✨ Introduction](#-introduction)  
+- [⚙️ Tech Stack](#-tech-stack)  
+- [🔋 Features](#-features)  
+- [🤸 Quick Start](#-quick-start)  
+- [🖼 Screenshots](#-screenshots)  
+- [🤝 Contributing](#-contributing)  
+- [📄 License](#-license)  
+- [✉️ Contact](#-contact)
 
 ---
 
@@ -89,7 +105,40 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser to prev
 
 ---
 
-<p align="center">
-  Built with ❤️ using React, GSAP, Three.js, and Tailwind CSS.
-</p>
+## ✅ Production / Deployment
 
+Deployed on Vercel:
+**Live demo:** [https://gsap-macbook-landing-main-five.vercel.app/](https://gsap-macbook-landing-main-five.vercel.app/)
+
+---
+
+## 🤝 Contributing
+
+Contributions & feedback welcome!
+
+* Fork the repo
+* Create a branch: `git checkout -b feat/your-feature`
+* Commit your changes: `git commit -m "feat: description"`
+* Push: `git push origin feat/your-feature`
+* Open a PR describing your changes
+
+If you submit code that requires API keys, please add them to `.env` and **do not** commit secrets.
+
+---
+
+## 📄 License
+
+This repository is provided under the `MIT` license. See `LICENSE` for details.
+
+---
+
+## ✉️ Contact
+
+Vishuddhi Jain — [vishuddhi0303.jain@gmail.com](mailto:vishuddhi0303.jain@gmail.com)
+Project: [https://github.com/Vishuddhijain/gsap_macbook_landing](https://github.com/Vishuddhijain/gsap_macbook_landing)
+Live demo: [https://gsap-macbook-landing-main-five.vercel.app/](https://gsap-macbook-landing-main-five.vercel.app/)
+
+---
+
+<p align="center">Built with ❤️ using React, GSAP, Three.js, and Tailwind CSS.</p>
+```
